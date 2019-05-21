@@ -1,0 +1,4 @@
+1:Barry:Matar:1995-12-12:771452369:barrynadio@yahoo.com:Présent:Promo 1
+2:Sow:Yama:1995-12-12:771572130:yama.sow@yahoo.com:Présent:Promo 1
+3:Ndiaye:Abdoulaye:1993-12-15:774569870:laye14ndiaye@gmail.com:Présent:Promo 2
+4:Diop:Omar:1995-12-15:761258730:diopomar@yahoo.com:Présent:Promo 2
